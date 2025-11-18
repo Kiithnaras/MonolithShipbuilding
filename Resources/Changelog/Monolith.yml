@@ -14168,3 +14168,10 @@ Entries:
   id: 1570
   time: '2025-11-17T21:04:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2648
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: 'S2 and S4 mechs can see further now. '
+  id: 1571
+  time: '2025-11-18T22:50:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2652
