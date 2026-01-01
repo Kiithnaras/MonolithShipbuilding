@@ -15438,3 +15438,14 @@ Entries:
   id: 1712
   time: '2026-01-01T02:24:55.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2774
+- author: EldritchPineapple
+  changes:
+    - type: Tweak
+      message: >-
+        Partially revamped the halcyon to be a little bit better (bash me with
+        rocks if it isn't please)
+    - type: Fix
+      message: Fixed a singular dispo pipe missing
+  id: 1713
+  time: '2026-01-01T04:49:14.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2831
