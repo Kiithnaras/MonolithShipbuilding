@@ -15456,3 +15456,10 @@ Entries:
   id: 1714
   time: '2026-01-01T05:18:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2865
+- author: Arcticular1
+  changes:
+    - type: Fix
+      message: Fixed the Andromeda's power issues and spacing issue.
+  id: 1715
+  time: '2026-01-01T06:33:57.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2917
