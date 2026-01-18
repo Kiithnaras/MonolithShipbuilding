@@ -16253,3 +16253,10 @@ Entries:
   id: 1798
   time: '2026-01-17T17:02:31.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3049
+- author: Onezero0
+  changes:
+    - type: Fix
+      message: Bullets clean themselves up over time now. (maybe less lag?)
+  id: 1799
+  time: '2026-01-18T02:02:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3056
