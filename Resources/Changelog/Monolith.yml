@@ -16440,3 +16440,10 @@ Entries:
   id: 1820
   time: '2026-01-20T13:06:18.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3047
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Uranium processing has been tweaked.
+  id: 1821
+  time: '2026-01-20T17:26:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3082
