@@ -16631,3 +16631,12 @@ Entries:
   id: 1841
   time: '2026-01-26T15:37:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2973
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: PKA projectiles can now pierce up to 5 rocks in a row.
+    - type: Tweak
+      message: Seismic charges no longer throw entities around on explosion.
+  id: 1842
+  time: '2026-01-26T15:39:50.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3115
