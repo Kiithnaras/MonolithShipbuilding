@@ -16734,3 +16734,12 @@ Entries:
   id: 1852
   time: '2026-01-29T12:34:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2989
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: >-
+        Shipgun energy weapons have been re-balanced to the same TTK as their
+        ballistic counterparts (this is a nerf)
+  id: 1853
+  time: '2026-01-29T12:51:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3135
