@@ -16795,3 +16795,13 @@ Entries:
   id: 1859
   time: '2026-02-01T18:26:14.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3162
+- author: tonotom1
+  changes:
+    - type: Add
+      message: >-
+        Ported air grenades from Wizden: you get one from engineer and atmos
+        lockers, and can buy them for 1k each at engivends. All credit to
+        ArtisticRoomba and slarticodefast.
+  id: 1860
+  time: '2026-02-01T18:30:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3150
