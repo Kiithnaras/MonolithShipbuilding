@@ -16887,3 +16887,10 @@ Entries:
   id: 1868
   time: '2026-02-01T19:06:54.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3144
+- author: Corrupt142
+  changes:
+    - type: Add
+      message: 'Added new Milmed ship to MD shipyard: Odenta'
+  id: 1869
+  time: '2026-02-01T19:10:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3085
