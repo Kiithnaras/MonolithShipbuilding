@@ -16938,3 +16938,12 @@ Entries:
   id: 1875
   time: '2026-02-02T13:16:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2746
+- author: Hverabrao
+  changes:
+    - type: Add
+      message: added buran to ussp shipyard
+    - type: Remove
+      message: removed tunguska from ussp shipyard
+  id: 1876
+  time: '2026-02-02T13:27:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2988
